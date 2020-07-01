@@ -22,3 +22,5 @@ python script_utils/mapping_anotasi.py list_anotasi.txt name_file.txt caption_tu
   
 - manually crosscheck
 http://jsonviewer.stack.hu/
+
+- Finally merge all captions and image into each of it's folder
