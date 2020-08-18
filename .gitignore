@@ -1,5 +1,6 @@
 dataset_inception_v3/
 dataset_vgg16/
 dataset_efficientNet/
+dataset_efficientNetB4/
 checkpoints/
 .ipynb_checkpoints/
