@@ -5,6 +5,9 @@ dataset_efficientNetB4/
 checkpoints/
 .ipynb_checkpoints/
 
+dataset
+dataset.zip
+
 6_merapi_park.json
 7_air_terjun_sri_getuk.json
 8_parangtritis.json
