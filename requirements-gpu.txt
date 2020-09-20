@@ -1,0 +1,13 @@
+tensorflow-gpu
+scikit-learn
+matplotlib
+Pillow
+tqdm
+gdown
+nltk
+seaborn
+pandas
+imageio
+
+# conda install -c anaconda cudatoolkit=10.1
+# conda install -c anaconda cudnn

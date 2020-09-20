@@ -1,0 +1,10 @@
+tensorflow
+scikit-learn
+matplotlib
+Pillow
+tqdm
+gdown
+nltk
+seaborn
+pandas
+imageio
