@@ -26,3 +26,8 @@ image_captioning_efficientNet_BLEU.html
 image_captioning_efficientNetB4_BLEU.html
 image_captioning_vgg16_BLEU.html
 image_captioning_inceptionV3_BLEU.html
+
+image_captioning_efficientNet.ipynb
+image_captioning_efficientNetB4.ipynb
+image_captioning_inceptionV3.ipynb
+image_captioning_vgg16.ipynb
